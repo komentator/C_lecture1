@@ -1,0 +1,15 @@
+C:\Users\Саша\Desktop\C#\C_lecture1\example005_randomsum\obj\Debug\net6.0\example005_randomsum.csproj.AssemblyReference.cache
+C:\Users\Саша\Desktop\C#\C_lecture1\example005_randomsum\obj\Debug\net6.0\example005_randomsum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\Desktop\C#\C_lecture1\example005_randomsum\obj\Debug\net6.0\example005_randomsum.AssemblyInfoInputs.cache
+C:\Users\Саша\Desktop\C#\C_lecture1\example005_randomsum\obj\Debug\net6.0\example005_randomsum.AssemblyInfo.cs
+C:\Users\Саша\Desktop\C#\C_lecture1\example005_randomsum\obj\Debug\net6.0\example005_randomsum.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\C#\C_lecture1\example005_randomsum\bin\Debug\net6.0\example005_randomsum.exe
+C:\Users\Саша\Desktop\C#\C_lecture1\example005_randomsum\bin\Debug\net6.0\example005_randomsum.deps.json
+C:\Users\Саша\Desktop\C#\C_lecture1\example005_randomsum\bin\Debug\net6.0\example005_randomsum.runtimeconfig.json
+C:\Users\Саша\Desktop\C#\C_lecture1\example005_randomsum\bin\Debug\net6.0\example005_randomsum.dll
+C:\Users\Саша\Desktop\C#\C_lecture1\example005_randomsum\bin\Debug\net6.0\example005_randomsum.pdb
+C:\Users\Саша\Desktop\C#\C_lecture1\example005_randomsum\obj\Debug\net6.0\example005_randomsum.dll
+C:\Users\Саша\Desktop\C#\C_lecture1\example005_randomsum\obj\Debug\net6.0\refint\example005_randomsum.dll
+C:\Users\Саша\Desktop\C#\C_lecture1\example005_randomsum\obj\Debug\net6.0\example005_randomsum.pdb
+C:\Users\Саша\Desktop\C#\C_lecture1\example005_randomsum\obj\Debug\net6.0\example005_randomsum.genruntimeconfig.cache
+C:\Users\Саша\Desktop\C#\C_lecture1\example005_randomsum\obj\Debug\net6.0\ref\example005_randomsum.dll
