@@ -1,0 +1,15 @@
+C:\Users\Саша\Desktop\C#\C_lecture1\example006_helloUsername\obj\Debug\net6.0\example006_helloUsername.csproj.AssemblyReference.cache
+C:\Users\Саша\Desktop\C#\C_lecture1\example006_helloUsername\obj\Debug\net6.0\example006_helloUsername.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\Desktop\C#\C_lecture1\example006_helloUsername\obj\Debug\net6.0\example006_helloUsername.AssemblyInfoInputs.cache
+C:\Users\Саша\Desktop\C#\C_lecture1\example006_helloUsername\obj\Debug\net6.0\example006_helloUsername.AssemblyInfo.cs
+C:\Users\Саша\Desktop\C#\C_lecture1\example006_helloUsername\obj\Debug\net6.0\example006_helloUsername.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\C#\C_lecture1\example006_helloUsername\bin\Debug\net6.0\example006_helloUsername.exe
+C:\Users\Саша\Desktop\C#\C_lecture1\example006_helloUsername\bin\Debug\net6.0\example006_helloUsername.deps.json
+C:\Users\Саша\Desktop\C#\C_lecture1\example006_helloUsername\bin\Debug\net6.0\example006_helloUsername.runtimeconfig.json
+C:\Users\Саша\Desktop\C#\C_lecture1\example006_helloUsername\bin\Debug\net6.0\example006_helloUsername.dll
+C:\Users\Саша\Desktop\C#\C_lecture1\example006_helloUsername\bin\Debug\net6.0\example006_helloUsername.pdb
+C:\Users\Саша\Desktop\C#\C_lecture1\example006_helloUsername\obj\Debug\net6.0\example006_helloUsername.dll
+C:\Users\Саша\Desktop\C#\C_lecture1\example006_helloUsername\obj\Debug\net6.0\refint\example006_helloUsername.dll
+C:\Users\Саша\Desktop\C#\C_lecture1\example006_helloUsername\obj\Debug\net6.0\example006_helloUsername.pdb
+C:\Users\Саша\Desktop\C#\C_lecture1\example006_helloUsername\obj\Debug\net6.0\example006_helloUsername.genruntimeconfig.cache
+C:\Users\Саша\Desktop\C#\C_lecture1\example006_helloUsername\obj\Debug\net6.0\ref\example006_helloUsername.dll
